@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "salt": "feb7ab007f31c749",
-  "pin_hash": "d3ff72514287aa2ef7c071e2fb5e5a3c6adb6fe1ecee2a617469fff9b07fbd39",
-  "master_hash": "5b14eb6e09fb882796d2c8fad3cb46c0cc4fa15d73da5396df8c44fcef6848d1",
+  "salt": "4b8da7278e3996db",
+  "pin_hash": "dc30b67228afa7cbede822d3b74697b26c93ff0fedbd1091c35bff90054a2ed9",
+  "master_hash": "66d1ed90d936d389dbd77bfce4f63c06b263c9a4875191c925a6384fbe2d6554",
   "locked": [
     "tv",
     "lista2",
