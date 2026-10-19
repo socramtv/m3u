@@ -2,15 +2,10 @@
   "enabled": true,
   "salt": "4246048b51ade68f",
   "pin_hash": "c20b8eb0f8485c180e16ec858ba5be08599315a4e0ce34396b9d50c1aa794577",
-  "locked": [
-    "telegram",
-    "cine",
-    "web",
-    "remote",
-    "settings"
-  ],
+"locked": ["tv","lista2","cine","tdt","radio","nowlive","epg","telegram","web","remote","settings"],
   "block_all": false,
   "message": "",
   "offline_days": 7,
   "unlock_minutes": 10
 }
+
