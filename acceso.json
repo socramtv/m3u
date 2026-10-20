@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "salt": "4b8da7278e3996db",
   "pin_hash": "dc30b67228afa7cbede822d3b74697b26c93ff0fedbd1091c35bff90054a2ed9",
   "master_hash": "66d1ed90d936d389dbd77bfce4f63c06b263c9a4875191c925a6384fbe2d6554",
@@ -25,6 +25,14 @@
       "name": "juan",
       "pin_hash": "2c396418ba17dae9c3fceab7df0b0c1dc17abb7bdfb30a95a50ba31ea59b66d7",
       "expires": "2026-11-19"
+    },
+    {
+      "name": "Rafa",
+      "pin_hash": "7de42d102556a68cc2ea967faa0f74ebd8d33a0bbe437ace94f5705177d77883",
+      "expires": "2026-11-20",
+      "sections": [
+        "tv"
+      ]
     }
   ]
 }
