@@ -19,5 +19,5 @@
   "block_all": false,
   "message": "",
   "offline_days": 7,
-  "unlock_minutes": 10
+  "unlock_minutes": 240
 }
