@@ -20,20 +20,5 @@
   "message": "",
   "offline_days": 7,
   "unlock_minutes": 240,
-  "users": [
-    {
-      "name": "juan",
-      "pin_hash": "2c396418ba17dae9c3fceab7df0b0c1dc17abb7bdfb30a95a50ba31ea59b66d7",
-      "expires": "2026-11-19"
-    },
-    {
-      "name": "Rafa",
-      "pin_hash": "7de42d102556a68cc2ea967faa0f74ebd8d33a0bbe437ace94f5705177d77883",
-      "expires": "2026-11-20",
-      "sections": [
-        "lista2",
-        "tv"
-      ]
-    }
-  ]
+  "users": []
 }
