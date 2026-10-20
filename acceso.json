@@ -19,5 +19,12 @@
   "block_all": false,
   "message": "",
   "offline_days": 7,
-  "unlock_minutes": 240
+  "unlock_minutes": 240,
+  "users": [
+    {
+      "name": "juan",
+      "pin_hash": "2c396418ba17dae9c3fceab7df0b0c1dc17abb7bdfb30a95a50ba31ea59b66d7",
+      "expires": "2026-11-19"
+    }
+  ]
 }
