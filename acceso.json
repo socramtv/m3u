@@ -20,5 +20,10 @@
   "message": "",
   "offline_days": 7,
   "unlock_minutes": 2880,
-  "users": []
+  "users": [
+    {
+      "name": "Rafa",
+      "pin_hash": "0d6341178cc638c170ac016b18ec6bd2fad12da49bbb4bc58eca99f4573647d3"
+    }
+  ]
 }
