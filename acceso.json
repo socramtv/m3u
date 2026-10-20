@@ -19,6 +19,6 @@
   "block_all": false,
   "message": "",
   "offline_days": 7,
-  "unlock_minutes": 240,
+  "unlock_minutes": 2880,
   "users": []
 }
