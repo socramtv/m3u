@@ -32,6 +32,11 @@
     {
       "name": "Papa",
       "pin_hash": "165d310ed65d4043d874f881139066404d679197c5bb02571bab08c065cc2858"
+    },
+    {
+      "name": "yo",
+      "pin_hash": "636cb0dc97c7c764d29993717d3bed3987d7d3ee3bcf0e874caa9cd00c2c5a1a",
+      "expires": "2026-11-20"
     }
   ]
 }
