@@ -28,6 +28,10 @@
     {
       "name": "Sonia",
       "pin_hash": "d26f1229dbec212afce52685eb116bc0a8cfe27dfffe54131cc2f274feb83fd8"
+    },
+    {
+      "name": "Papa",
+      "pin_hash": "165d310ed65d4043d874f881139066404d679197c5bb02571bab08c065cc2858"
     }
   ]
 }
