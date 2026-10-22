@@ -41,6 +41,16 @@
     {
       "name": "yoyo",
       "pin_hash": "6db9fb4ab7ad928bbf405d1709579b1f142abf01c596071cad6fe685cbbeda3d"
+    },
+    {
+      "name": "prueba",
+      "pin_hash": "ce477b031f31bdddaf909a1f888745c5db42d6d481256197e28046f0cbc27c4c",
+      "devices": [
+        {
+          "id": "2A0713A6 (SAMSUNG SM-A750FN)",
+          "name": "mio Otro"
+        }
+      ]
     }
   ],
   "log_url": "https:\/\/script.google.com\/macros\/s\/AKfycbxCcJp7t35zVAJtlpjlNW-aSsrWQCAYu_a33j6bqT-ygvFzFY4USMKx_did_Q1lCX6Zkg\/exec"
