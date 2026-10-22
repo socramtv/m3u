@@ -37,6 +37,10 @@
       "name": "yo",
       "pin_hash": "636cb0dc97c7c764d29993717d3bed3987d7d3ee3bcf0e874caa9cd00c2c5a1a",
       "expires": "2026-11-20"
+    },
+    {
+      "name": "yoyo",
+      "pin_hash": "6db9fb4ab7ad928bbf405d1709579b1f142abf01c596071cad6fe685cbbeda3d"
     }
   ],
   "log_url": "https:\/\/script.google.com\/macros\/s\/AKfycbxCcJp7t35zVAJtlpjlNW-aSsrWQCAYu_a33j6bqT-ygvFzFY4USMKx_did_Q1lCX6Zkg\/exec"
