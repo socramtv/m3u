@@ -42,6 +42,11 @@
           "name": "sam"
         }
       ]
+    },
+    {
+      "name": "Marspsfc",
+      "pin_hash": "a1345e5d0538be19530c9aff8e31d8100dae7386c5d46a6655e058e3961570c3",
+      "expires": "2026-11-21"
     }
   ],
   "log_url": "https:\/\/script.google.com\/macros\/s\/AKfycbxCcJp7t35zVAJtlpjlNW-aSsrWQCAYu_a33j6bqT-ygvFzFY4USMKx_did_Q1lCX6Zkg\/exec"
