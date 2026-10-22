@@ -17,7 +17,7 @@
     "web"
   ],
   "block_all": false,
-  "message": "",
+  "message": "Ponte en contacto con el Administrador",
   "offline_days": 7,
   "unlock_minutes": 2880,
   "users": [
