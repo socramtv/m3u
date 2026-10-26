@@ -19,7 +19,7 @@
   "block_all": false,
   "message": "Ponte en contacto con el Administrador",
   "offline_days": 7,
-  "unlock_minutes": 2880,
+  "unlock_minutes": 43200,
   "users": [
     {
       "name": "Rafa",
