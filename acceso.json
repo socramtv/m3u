@@ -47,6 +47,16 @@
       "name": "Marspsfc",
       "pin_hash": "a1345e5d0538be19530c9aff8e31d8100dae7386c5d46a6655e058e3961570c3",
       "expires": "2026-11-21"
+    },
+    {
+      "name": "Rafa 2",
+      "pin_hash": "165d310ed65d4043d874f881139066404d679197c5bb02571bab08c065cc2858",
+      "devices": [
+        {
+          "id": "EBAC0D99",
+          "name": "Rafa"
+        }
+      ]
     }
   ],
   "log_url": "https:\/\/script.google.com\/macros\/s\/AKfycbwogQGjMoGgVgOTXdwts-kCblMVkOB9aOy8fF9g34Qou317tFtylyKaGpC8d_l6I48kYA\/exec"
