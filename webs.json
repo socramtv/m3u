@@ -20,6 +20,10 @@
     {
       "name": "Live tv 17",
       "url": "https:\/\/livetv-ru17.me\/es\/"
+    },
+    {
+      "name": "Live Tv base",
+      "url": "https:\/\/freestreams.video\/livetv"
     }
   ]
 }
