@@ -24,6 +24,11 @@
     {
       "name": "Live Tv base",
       "url": "https:\/\/freestreams.video\/livetv"
+    },
+    {
+      "name": "Socram77",
+      "url": "https:\/\/socram77.onrender.com\/",
+      "folder": "Mis Web"
     }
   ]
 }
