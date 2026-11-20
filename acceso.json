@@ -61,6 +61,16 @@
           "name": "Rafa"
         }
       ]
+    },
+    {
+      "name": "Charlie",
+      "pin_hash": "165d310ed65d4043d874f881139066404d679197c5bb02571bab08c065cc2858",
+      "devices": [
+        {
+          "id": "B8F147E4 (OPPO CPH2727)",
+          "name": "Charlie"
+        }
+      ]
     }
   ],
   "log_url": "https:\/\/script.google.com\/macros\/s\/AKfycbwogQGjMoGgVgOTXdwts-kCblMVkOB9aOy8fF9g34Qou317tFtylyKaGpC8d_l6I48kYA\/exec"
